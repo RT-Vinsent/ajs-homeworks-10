@@ -4,11 +4,11 @@
 
 ### Первая задача, модули:
 * parser.js и reader.js - от задания;
-* GameSaving.js - для созжания объекта;
-* GameSavingLoader.js - модель для первой задачи;
+* GameSaving.js - для создания объекта;
+* GameSavingLoader.js - модуль для первой задачи;
 * GameSavingLoader.test.js - тестирование первой задачи;
 ### Вторая задача, модули:
-* GameSavingLoaderAsyncAwait.js - модель для второй задачи;
+* GameSavingLoaderAsyncAwait.js - модуль для второй задачи;
 * GameSavingLoaderAsyncAwait.test.js - тестирование второй задачи;
 ### Третья задача, модули:
 * GameSavingLoaderAsyncAwaitMock.test.js - тестирование;
